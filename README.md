@@ -137,7 +137,40 @@ The main objective is to design a **clean and efficient CRM interface** that:
 
 ## 📸 Screenshots
 
-Add dashboard screenshots here.
+### Dashboard
+![Dashboard](Dashboard.png)
+
+### Leads Page
+![Leads](Leads.png)
+
+### Pipeline View
+![Pipeline](Pipeline.png)
+
+### Analytics Page
+![Analytics](ANALYTICS.png)
+
+### Projects Page
+![Projects](PROJECT.png)
+
+### Clients Page
+![Clients](CLIENTS.png)
+
+### Tasks Page
+![Tasks](TASK.png)
+
+### Settings Page
+![Settings](settings.png)
+
+---
+
+## ✅ Outcome
+This CRM dashboard improves agency efficiency by:
+
+- Providing better deal visibility  
+- Organizing client & project workflow  
+- Supporting data-driven decisions  
+- Enhancing task management  
+- Improving overall productivity 
 
 ---
 
