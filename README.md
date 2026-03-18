@@ -173,5 +173,11 @@ This CRM dashboard improves agency efficiency by:
 - Improving overall productivity 
 
 ---
+## 📊 Project Presentation (PPT)
+
+You can view the complete CRM Dashboard presentation here:
+
+👉 [Open Presentation](./PixelCraft-CRM-A-Modern-Dashboard.pptx)
+
 
 ⭐ Feel free to star this repository if you like this project!
