@@ -132,7 +132,7 @@ The main objective is to design a **clean and efficient CRM interface** that:
 
 ## 🔗 Design Prototype
 
-👉 https://www.figma.com/proto/C0N4BQ0JZRdH3Oyc8EgY37/Untitled?node-id=2-116&p=f&t=QgJVGySwiP6cu9zc-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
+👉 https://www.figma.com/proto/C0N4BQ0JZRdH3Oyc8EgY37/Untitled?node-id=2-116&p=f&t=rtr8TiMBg14MbRvO-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
 ---
 
 ## 📸 Screenshots
